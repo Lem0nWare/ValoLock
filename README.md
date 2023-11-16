@@ -19,3 +19,4 @@ Gui Preview
 
 - Reyna is broken
 - The gui looks poop
+- Windows defender has a fricking stroke when you open
