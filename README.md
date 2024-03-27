@@ -15,8 +15,7 @@ Gui Preview
 2. Press "F9" to insta-lock
 3. Press "Reset" before selecting a new agent
 
-# Known Bugs (11/16/23)
+# Known Bugs (3/26/24)
 
-- Reyna is broken
-- The gui looks poop
-- Windows defender has a fricking stroke when you open
+- The GUI need work.
+- This app does NOT work with ultra wide monitors.
