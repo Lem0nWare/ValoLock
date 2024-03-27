@@ -7,9 +7,10 @@ Requirements
 
 Gui Preview
 
-- ![image](https://github.com/Lem0nWare/ValoLock/assets/121567894/c26f6b33-e488-42b7-bcae-91726323e0d8)
+- ![im2345234523452345age](https://github.com/Lem0nWare/ValoLock/assets/121567894/3d71e16d-e7d3-4486-bd48-ab3d5212e410)
 
 # How To Use
+
 
 1. Select your agent from the menu
 2. Press "F9" to insta-lock
