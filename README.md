@@ -7,7 +7,7 @@ Requirements
 
 Gui Preview
 
-- ![im2345234523452345age](https://github.com/Lem0nWare/ValoLock/assets/121567894/3c96a23d-cc49-4396-849c-35522fcf5df2)
+- ![i4645645633456mage](https://github.com/Lem0nWare/ValoLock/assets/121567894/83d9dba8-031f-42a9-aa2b-d85414d67477)
 
 # How To Use
 
