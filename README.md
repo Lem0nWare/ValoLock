@@ -12,8 +12,9 @@ Gui Preview
 # How To Use
 
 1. Select your agent from the menu
-2. Press "F9" to insta-lock
-3. Press "Reset" before selecting a new agent
+2. Select a hotkey from the menu
+3. Hold the hotkey chosen to instalock
+4. Before selecting a new agent or hotkey press the "Reset" button.
 
 # Known Bugs (3/27/24)
 
